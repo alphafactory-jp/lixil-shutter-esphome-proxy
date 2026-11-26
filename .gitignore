@@ -1,0 +1,3 @@
+# 秘密情報は公開しない / never commit secrets
+secrets.yaml
+.esphome/
